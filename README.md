@@ -1,4 +1,4 @@
-# palindrome
+# FindInv
 
 Finds Inverted repeat pairs in a given fasta file.<br>
 Python alternative* for EMBOSS palindrome.
